@@ -65,3 +65,5 @@ USDA NRCS SNOTEL network via the public AWDB REST API: station Css Lab (428:CA:S
 - Ground truth is 241 days from a single station, so the statistical comparison has limited power.
 - Methods are evaluated on the same series they are fitted to, which suits cleaning a fixed record but not live monitoring.
 - The Hampel baseline is univariate, so it misses subtler faults found by cross-checking water equivalent.
+
+- 
